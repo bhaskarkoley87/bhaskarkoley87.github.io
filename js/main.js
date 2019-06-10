@@ -227,7 +227,7 @@ jQuery(document).ready(function($) {
 
     });
   };
-  OnePageNavigation();
+  //OnePageNavigation();
 
   var siteScroll = function() {
 
